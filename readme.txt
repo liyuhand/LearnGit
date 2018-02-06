@@ -1,2 +1,2 @@
-Git is a virsion control system.
+Git is an distributed virsion control system.
 Git is ftee software.
